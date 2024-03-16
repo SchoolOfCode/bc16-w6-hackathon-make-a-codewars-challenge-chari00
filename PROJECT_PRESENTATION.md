@@ -87,7 +87,7 @@ Only positive numbers are accepted.
 
 ## Feedback
 
-Click this [form](https://hackathon-kata-feedback.netlify.app/) for feedback and questions.
+Click this [form](https://soc-hackathon-feedback.netlify.app/) for feedback and questions.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) .
