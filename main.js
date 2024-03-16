@@ -10,14 +10,5 @@ Only positive numbers are accepted.
 */
 
 export function decrementTimer(seconds) {
-    const countInterval = setInterval(()=>{
-        seconds--;
-        console.log(seconds);
-        if(seconds <= 0){
-            clearInterval(countInterval);
-        }
-    },1000)
- 
-
- return countInterval;
+   
 }
